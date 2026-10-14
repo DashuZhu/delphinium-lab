@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+.impeccable/review/*.jpg
+.impeccable/review/*.png
